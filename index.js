@@ -1,21 +1,21 @@
 const not_list = [
     {
-        "nameImg" : "google-icon.svg",
+        "nameImg" : "img/google-icon.svg",
         "link" : "https://www.google.com.tw/",
         "content" : "來自google的通知，google全新介面開放使用，全新的用戶體驗，新的操作與功能，無廣告，雲端，影音隨你操作"
     },
     {
-        "nameImg" : "yahoo.png",
+        "nameImg" : "img/yahoo.png",
         "link" : "https://tw.yahoo.com/",
         "content" : "來自yahoo的通知，yahoo全新介面開放使用，全新的用戶體驗，新的操作與功能，無廣告，雲端，影音隨你操作"
     },
     {
-        "nameImg" : "youtube_icon.png",
+        "nameImg" : "img/youtube_icon.png",
         "link" : "https://www.youtube.com/?gl=TW&tab=r1",
         "content" : "來自youtube的通知，youtube全新介面開放使用，全新的用戶體驗，新的操作與功能，無廣告，雲端，影音隨你操作"
     },
     {
-        "nameImg" : "ibm.png",
+        "nameImg" : "img/ibm.png",
         "link" : "https://www.ibm.com/tw-zh",
         "content" : "來自IBM的通知，IBM全新介面開放使用，全新的用戶體驗，新的操作與功能，無廣告，雲端，影音隨你操作"
     }
