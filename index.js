@@ -49,4 +49,4 @@ $(document).bind('click', function(e){
     if(isFocus.parents().length == 0){
         $('#myList').hide();
     }
-  });
+});
